@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.a16478032_jyq">
+    package="com.example.a16478004_wxy">
 
     <application
         android:allowBackup="true"
@@ -9,13 +9,39 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name=".MainActivity">
+
+        </activity>
+
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/login">
+
+        </activity>
+
+        <activity
+            android:name=".WeixinActivity"
+            android:label="@string/weixin">
+        </activity>
+
+        <activity
+            android:name=".RegActivity"
+            android:label="@string/reg">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
+
+        <activity
+            android:name=".DiancanActivity"
+            android:label="@string/diancan">
+
+        </activity>
+
     </application>
 
 </manifest>

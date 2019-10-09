@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">16478032_jyq</string>
+    <string name="login">Sign in</string>
+    <string name="reg">Sign up</string>
+    <string name="weixin">微信</string>
+    <string name="diancan">点餐</string>
 </resources>
