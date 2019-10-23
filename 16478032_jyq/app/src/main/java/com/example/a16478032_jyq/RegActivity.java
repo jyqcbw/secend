@@ -8,6 +8,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.a16478004_wxy.R;
+
 
 public class RegActivity extends AppCompatActivity {
 

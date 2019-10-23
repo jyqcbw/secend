@@ -1,7 +1,8 @@
-package com.example.a16478004_wxy
+package com.example.a16478032_jyq
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.example.a16478004_wxy.R
 
 class MainActivity : AppCompatActivity() {
 

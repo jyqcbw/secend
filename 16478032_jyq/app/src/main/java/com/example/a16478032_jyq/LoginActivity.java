@@ -8,6 +8,9 @@ import android.widget.EditText;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.a16478004_wxy.R;
+
+
 public class LoginActivity extends AppCompatActivity {
 
     @Override

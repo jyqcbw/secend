@@ -11,6 +11,8 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.a16478004_wxy.R;
+
 public class DiancanActivity extends AppCompatActivity {
 
     Button btn_commit;
